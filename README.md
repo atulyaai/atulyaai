@@ -1,12 +1,10 @@
 <!-- Hero Banner -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/atulyaai/atulyaai/main/assets/banner.jpg" alt="Atulya AI - Local-First AI for India" width="100%"/>
+  <img src="https://raw.githubusercontent.com/atulyaai/atulyaai/main/assets/banner.jpg" alt="Atulya AI — Local-First AI for India" width="100%"/>
 </div>
 
 <div align="center">
-  <h1>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&weight=700&size=38&duration=4000&pause=1000&color=F7931A&center=true&vCenter=true&width=700&height=70&lines=ATULYA+AI;LOCAL-FIRST+AI+FOR+INDIA;JARVIS-CLASS+INTELLIGENCE;अतुल्य+·+तन्त्र" alt="Atulya AI — Local-First AI for India" />
-  </h1>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&weight=700&size=38&duration=4000&pause=1000&color=F7931A&center=true&vCenter=true&width=700&height=70&lines=ATULYA+AI;LOCAL-FIRST+AI+FOR+INDIA;JARVIS-CLASS+INTELLIGENCE;अतुल्य+·+तन्त्र" alt="Atulya AI — Local-First AI for India" />
 </div>
 
 <p align="center">
@@ -24,30 +22,11 @@
 
 ---
 
-## 🏛️ Ecosystem Architecture
+## 🌐 Ecosystem
 
-```
- ┌─────────────────────────────────────────────────────────────────────────────┐
- │                             ATULYA AI ECOSYSTEM                             │
- ├─────────────────────────────────────────────────────────────────────────────┤
- │                                                                             │
- │   🤖 ATULYA-TANTRA           Local-First JARVIS-Class Assistant             │
- │                              Talking hologram · EN/HI voice · 23+ tools     │
- │                                       │                                     │
- │                                       ▼                                     │
- │   🧬 TANTRA-LLM              Hindi-First Neural Language Model from Scratch │
- │                              Own BPE tokenizer · Hybrid ALRA · CPU-first    │
- │                                       │                                     │
- │                                       ▼                                     │
- │   ⚙️ ATULYA-OS               Next-Gen Intent OS in Pure Rust (no_std)       │
- │                              Bootloader · Framebuffer · AI Intent Core      │
- │                                                                             │
- ├─────────────────────────────────────────────────────────────────────────────┤
- │   🖥️ ATULYA-LAUNCH           Self-Hosted Server Management Panel (cPanel Alt)│
- │   📊 ATULYA-OFFICE           Office Automation, VBA & Formula AI Toolkit    │
- │   📄 ATULYA-ALL-FILE-CONV    100% Private Offline Document & OCR Converter  │
- └─────────────────────────────────────────────────────────────────────────────┘
-```
+<div align="center">
+  <img src="https://raw.githubusercontent.com/atulyaai/atulyaai/main/assets/ecosystem.jpg" alt="Atulya AI — Full Ecosystem: Tantra, LLM, OS, Launch, Office, Converter" width="100%"/>
+</div>
 
 ---
 
@@ -82,7 +61,7 @@ Built from the ground up: 64k Byte-level BPE tokenizer for Hindi+English, hybrid
 ### ⚙️ [Atulya-OS](https://github.com/atulyaai/Atulya-OS)
 **Freestanding Intent Operating System**
 
-Experimental x86_64 operating system built in pure `no_std` Rust. Features a custom bootloader, 1080p double-buffered TrueColor compositor, glass UI, and bare-metal AI intent layer.
+Experimental x86_64 OS in pure `no_std` Rust. Custom bootloader, 1080p TrueColor compositor, glass UI, and bare-metal AI intent layer — runs entirely from source on QEMU.
 
 `Rust 2024` `no_std` `x86-64` `QEMU` `OSDev`
 
@@ -92,7 +71,7 @@ Experimental x86_64 operating system built in pure `no_std` Rust. Features a cus
 ### 🖥️ [Atulya-Launch](https://github.com/atulyaai/Atulya-Launch)
 **Self-Hosted Server Management Panel**
 
-Modern open-source alternative to cPanel and Plesk. Full web dashboard, Nginx config engine, Let's Encrypt SSL, DNS, mail services, Docker management, and CLI.
+Modern open-source alternative to cPanel. Full web dashboard, Nginx config engine, Let's Encrypt SSL, DNS, mail services, Docker management, and CLI with 628 API routes.
 
 `Python` `FastAPI` `Nginx` `Docker` `Self-Hosted`
 
@@ -104,14 +83,14 @@ Modern open-source alternative to cPanel and Plesk. Full web dashboard, Nginx co
 
 ## 🛠️ Satellite Tools
 
-| Repository | Focus | Capabilities |
+| Repository | Focus | What It Does |
 |---|---|---|
-| [**Atulya-Office**](https://github.com/atulyaai/Atulya-Office) | `Automation` | Excel reconciliation, Word document merge, Outlook email sorting, PowerPoint decks, and formula AI |
-| [**Atulya-All-File-Converter**](https://github.com/atulyaai/Atulya-All-File-Converter) | `Privacy Tool` | 100% on-device document converter: PDF merge/split/sign, camera scan OCR, image optimization & CSV/JSON data |
+| [**Atulya-Office**](https://github.com/atulyaai/Atulya-Office) | `Automation` | Excel reconciliation, Word merge, Outlook sorting, PowerPoint decks, Formula AI — one CLI command each |
+| [**Atulya-All-File-Converter**](https://github.com/atulyaai/Atulya-All-File-Converter) | `Privacy` | 100% on-device: PDF merge/split/sign, camera scan OCR, image optimize, CSV/JSON — zero cloud uploads |
 
 ---
 
 <div align="center">
   <sub>Built with precision for sovereignty, privacy, and speed.</sub><br/>
-  <b><a href="https://www.atulvij.com">atulvij.com</a></b> &nbsp;•&nbsp; <b><a href="https://github.com/atulyaai">@atulyaai</a></b>
+  <b><a href="https://www.atulvij.com">atulvij.com</a></b> &nbsp;•&nbsp; <b><a href="https://github.com/atulyaai">@atulyaai</a></b> &nbsp;•&nbsp; <em>Copyright (c) 2026 Atulya AI (atulyaai)</em>
 </div>
