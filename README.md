@@ -5,7 +5,7 @@
 
 <div align="center">
   <h1>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&weight=700&size=38&duration=4000&pause=1000&color=4DFBFF&center=true&vCenter=true&width=700&height=70&lines=ATULYA+AI;LOCAL-FIRST+AI+FOR+INDIA;JARVIS-CLASS+INTELLIGENCE;अतुल्य+·+तन्त्र" alt="Atulya AI — Local-First AI for India" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&weight=700&size=38&duration=4000&pause=1000&color=F7931A&center=true&vCenter=true&width=700&height=70&lines=ATULYA+AI;LOCAL-FIRST+AI+FOR+INDIA;JARVIS-CLASS+INTELLIGENCE;अतुल्य+·+तन्त्र" alt="Atulya AI — Local-First AI for India" />
   </h1>
 </div>
 
@@ -15,10 +15,10 @@
 </p>
 
 <p align="center">
-  <a href="https://www.atulvij.com"><img src="https://img.shields.io/badge/Website-atulvij.com-0d1117?style=for-the-badge&logo=globe&logoColor=4DFBFF&labelColor=0d1117&color=4DFBFF" alt="Website"/></a>
-  <a href="https://github.com/atulyaai/Atulya-Tantra/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-0d1117?style=for-the-badge&logoColor=4DFBFF&labelColor=0d1117&color=4DFBFF" alt="License"/></a>
-  <a href="https://python.org"><img src="https://img.shields.io/badge/Python-3.11+-0d1117?style=for-the-badge&logo=python&logoColor=4DFBFF&labelColor=0d1117&color=4DFBFF" alt="Python"/></a>
-  <a href="https://www.rust-lang.org/"><img src="https://img.shields.io/badge/Rust-2024_Edition-0d1117?style=for-the-badge&logo=rust&logoColor=4DFBFF&labelColor=0d1117&color=4DFBFF" alt="Rust"/></a>
+  <a href="https://www.atulvij.com"><img src="https://img.shields.io/badge/Website-atulvij.com-0d1117?style=for-the-badge&logo=globe&logoColor=F7931A&labelColor=0d1117&color=F7931A" alt="Website"/></a>
+  <a href="https://github.com/atulyaai/Atulya-Tantra/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-0d1117?style=for-the-badge&logoColor=F7931A&labelColor=0d1117&color=F7931A" alt="License"/></a>
+  <a href="https://python.org"><img src="https://img.shields.io/badge/Python-3.11+-0d1117?style=for-the-badge&logo=python&logoColor=F7931A&labelColor=0d1117&color=F7931A" alt="Python"/></a>
+  <a href="https://www.rust-lang.org/"><img src="https://img.shields.io/badge/Rust-2024_Edition-0d1117?style=for-the-badge&logo=rust&logoColor=F7931A&labelColor=0d1117&color=F7931A" alt="Rust"/></a>
   <img src="https://img.shields.io/badge/Made_in-India_🇮🇳-0d1117?style=for-the-badge&logoColor=FF9933&labelColor=0d1117&color=FF9933" alt="Made in India"/>
 </p>
 
