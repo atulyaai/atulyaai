@@ -1,6 +1,6 @@
 <!-- Hero Banner -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/atulyaai/atulyaai/main/assets/banner.jpg" alt="Atulya AI — Local-First AI for India" width="100%"/>
+  <img src="https://raw.githubusercontent.com/atulyaai/atulyaai/main/assets/banner.jpg?v=1791071406" alt="Atulya AI — Local-First AI for India" width="100%"/>
 </div>
 
 <div align="center">
@@ -25,7 +25,7 @@
 ## 🌐 Ecosystem
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/atulyaai/atulyaai/main/assets/ecosystem.jpg" alt="Atulya AI — Full Ecosystem: Tantra, LLM, OS, Launch, Office, Converter" width="100%"/>
+  <img src="https://raw.githubusercontent.com/atulyaai/atulyaai/main/assets/ecosystem.jpg?v=1791071406" alt="Atulya AI — Full Ecosystem: Tantra, LLM, OS, Launch, Office, Converter" width="100%"/>
 </div>
 
 ---
