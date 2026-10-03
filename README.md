@@ -78,14 +78,12 @@ Lightweight cPanel alternative — manage websites, databases, email, SSL, DNS a
 
 ---
 
-## 🛠️ More Tools
+## 🛠️ Satellite Tools
 
-| Repo | Description |
-|------|-------------|
-| [Atulya-Office](https://github.com/atulyaai/Atulya-Office) | Excel, Word, Outlook, PowerPoint automation toolkit |
-| [Atulya-HR-Suite](https://github.com/atulyaai/Atulya-HR-Suite) | HR & payroll for Indian businesses — PF/ESI/TDS, attendance |
-| [Atulya-Automation-Hub](https://github.com/atulyaai/Atulya-Automation-Hub) | One-click local automations — folder watching, scheduled tasks |
-| [Atulya-All-File-Converter](https://github.com/atulyaai/Atulya-All-File-Converter) | Offline file converter — PDF, OCR, Excel/CSV/JSON |
+| Repo | Category | Description |
+|------|----------|-------------|
+| [**Atulya-Office**](https://github.com/atulyaai/Atulya-Office) | `Automation` | Excel, Word, Outlook & PowerPoint automation & formula AI toolkit |
+| [**Atulya-All-File-Converter**](https://github.com/atulyaai/Atulya-All-File-Converter) | `Privacy Tool` | 100% private, on-device document converter — PDF merge/split, OCR & structured data |
 
 ---
 
